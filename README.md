@@ -1,5 +1,13 @@
 - 👋 Hi, I’m @Julius-Babies
-- 👀 I’m interested in ... coding, I guess?
+- 👀 My favorite languages are Java and PHP
+- 💻 Windows 10 Pro (Surface Pro 2017)
+- 🖥Ubuntu 20.04 LTS (Custom Build from 2008/2009)
+- 📄 JetBrains
+  - ♥ IntelliJ IDEA Ultimate (Java)
+  - ✔ PHPstorm (Webdevelopement)
+  - 😐 PyCharm Ultimate (Python)
+-  Hub (Private):
+  - [Cloud](https://github.com/Julius-Babies/SRZ-Jahresarbeit2022)
 
 <!---
 Julius-Babies/Julius-Babies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
