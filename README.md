@@ -1,5 +1,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Julius-Babies&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius-Babues)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Julius-Babies
 - 🚩German
