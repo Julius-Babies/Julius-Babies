@@ -12,8 +12,6 @@
   - ♥ IntelliJ IDEA Ultimate (Java)
   - ✔ PHPstorm (Webdevelopement)
   - 😐 PyCharm Ultimate (Python)
--  Hub (Private):
-  - [Cloud](https://github.com/Julius-Babies/SRZ-Jahresarbeit2022)
 
 <!---
 Julius-Babies/Julius-Babies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
