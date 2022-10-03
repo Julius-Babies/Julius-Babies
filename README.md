@@ -3,9 +3,10 @@
 - 👋 Hi, I’m @Julius-Babies
 - 🚩German
 - 🗣 14 years
-- 👀 My favorite languages are Java and PHP
+- 👀 Favorite languages: Java, TS, PHP
 - 💻 Windows 10 Pro (Surface Pro 2017)
-- 🖥Ubuntu 20.04 LTS (Custom Build from 2008/2009)
+- 🖥 Windows 10 Pro (Custom Build)
+- 🎮Mainly small Minecraft-plugins
 - 📄 JetBrains
   - ♥ IntelliJ IDEA Ultimate (Java)
   - ✔ PHPstorm (Webdevelopement)
