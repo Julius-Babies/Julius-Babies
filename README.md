@@ -1,12 +1,11 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius-Babies)](https://github.com/anuraghazra/github-readme-stats)
+[![Julius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius-Babies)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👋 Hi, I’m @Julius-Babies
 - 🚩German
 - 🗣 14 years
-- 👀 Favorite languages: Java, TS, PHP
+- 👀 Favorite languages: Kotlin, TS, PHP
 - 💻 Windows 10 Pro (Surface Pro 2017)
 - 🖥 Windows 10 Pro (Custom Build)
-- 🎮Mainly small Minecraft-plugins
 - 📄 JetBrains
   - ♥ IntelliJ IDEA Ultimate (Java)
   - ✔ PHPstorm (Webdevelopement)
