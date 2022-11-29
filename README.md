@@ -5,7 +5,7 @@
 - 🗣 14 years
 - 👀 Favorite languages: Kotlin, TS, PHP
 - 💻 Windows 10 Pro (Surface Pro 2017)
-- 🖥 Windows 10 Pro (Custom Build)
+- 🖥 Windows 11 Pro (Custom Build)
 - 📄 JetBrains
   - ♥ IntelliJ IDEA Ultimate (Java)
   - ✔ PHPstorm (Webdevelopement)
