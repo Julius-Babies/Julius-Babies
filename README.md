@@ -1,6 +1,6 @@
 [![Julius's GitHub stats](https://github-readme-stats.vercel.app/api?username=Julius-Babies)](https://github.com/anuraghazra/github-readme-stats)
 
-Hi, I'm Julius Babies 👋. I'm an Android developer using native libraries like Jetpack Compose with Kotlin.
+Hi, I'm Julius Babies 👋. I'm an Android App developer using native libraries like Jetpack Compose with Kotlin.
 
 My current project is [VPlanPlus](https://vplanplus.jvbabi.es/), an Android client for a substitution plan system used in a variety of states in Germany.
 
